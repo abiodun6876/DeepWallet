@@ -4,5 +4,5 @@ You'll need to install the necessary dependencies to work with MetaMask and web3
 Open your project's directory in the terminal and run the following commands:
 npm install web3
 npm install ethereum-metamask
-npm install js-cookie
+
 
