@@ -19,15 +19,15 @@ Deepwallet/
   │   ├── ShowTime.js
   │   ├── MouseTracker.js
   │   ├── TextAnalysis.js
+ │   ├── ArrayPairFinder.js
   │
   ├── pages/
   │   ├── index.js
   │
   ├── styles/
   │   ├── Home.module.css
-  │
-  ├── utils/
-  │   ├── findNumberPairs.js
+
+ 
   │
   ├── package.json
   └── ...
